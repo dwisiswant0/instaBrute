@@ -1,4 +1,4 @@
-from multiprocessing import Queue
+import Queue
 import random
 import sys
 import threading
@@ -221,7 +221,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print ("\n***************************************")
-    print ("* Inastgarm Brute forcer              *")
+    print ("* Instagram Brute forcer              *")
     print ("* Coded by N3TC@T                     *")
     print ("* netcat[dot]av[at]gmail[dot]com      *")
     print ("***************************************")
